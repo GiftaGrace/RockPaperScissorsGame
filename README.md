@@ -26,7 +26,7 @@ To play **Rock, Paper, Scissors** on your local machine:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/GiftaGrace/rock-paper-scissors.git
+    git clone https://github.com/GiftaGrace/RockPaperScissorsGame.git
     ```
 
 2. Navigate into the project folder:
